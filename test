@@ -1,0 +1,5 @@
+Get "Food"
+from "Mensa"
+if "Time"="12:00"
+else
+"be hungry"
