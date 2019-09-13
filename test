@@ -1,5 +1,5 @@
 Get "Food"
 from "Mensa"
-if "Time"="12:00"
+if "Time"="12:15"
 else
 "be hungry"
